@@ -1,0 +1,18 @@
+# robots.txt for yoblogger.com
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://yoblogger.com/sitemap.xml
+
+# Google AdSense
+User-agent: Mediapartners-Google
+Allow: /
+
+# Google Ads
+User-agent: AdsBot-Google
+Allow: /
+
+# Crawl-delay (optional, helps prevent server overload)
+Crawl-delay: 1
